@@ -1,0 +1,22 @@
+﻿@page "/convertpage"
+@inherits ConvertPageBase
+
+<h3>JsonMaker</h3>
+
+
+<div>
+    <textarea rows="10" cols="100" @bind="InputText">
+    
+    </textarea>
+</div>
+
+<div>
+    <button class="btn btn-primary" @onclick="Convert">Convert</button>
+</div>
+
+<div>
+    <textarea rows="10" cols="100" @bind="OutputText" disabled>
+        
+    </textarea>
+</div>
+

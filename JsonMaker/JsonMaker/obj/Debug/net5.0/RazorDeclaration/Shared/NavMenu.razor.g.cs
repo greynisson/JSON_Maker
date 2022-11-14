@@ -90,7 +90,7 @@ using JsonMaker.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\garda\Desktop\Programming projects\JSON_Maker\JsonMaker\JsonMaker\Shared\NavMenu.razor"
+#line 33 "C:\Users\garda\Desktop\Programming projects\JSON_Maker\JsonMaker\JsonMaker\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
